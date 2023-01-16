@@ -5,7 +5,7 @@ A console-based app to track the number of days sober
 ## Planned Features
 
 - Check how many days sober
-    - User enters last day alcowhol consumer
+    - User enters last day alcohol consumed
     - Returns the number of days since last drink
 
 - Drink Tracker
